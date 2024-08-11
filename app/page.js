@@ -19,7 +19,6 @@ const Page = () => {
       <Balance transactions={transactions} />
       <TransactionList transactions={transactions} />
       <Footer />
-
     </div>
   );
 };
